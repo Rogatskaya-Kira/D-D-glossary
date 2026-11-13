@@ -1,0 +1,10 @@
+source_id;file_name;title;organization;url;access_date;type
+S001;corpus/races.md;расы D&D ;D&D ;https://dnd.su/race/;2026-10-29;official
+S002;corpus/classes.md;классы и архетипы;D&D ;https://dnd.su/class/;2026-10-29;official
+S003;corpus/rules_core.md;базовые правила;D&D ;https://адрес;2026-10-29;official
+S004;corpus/combat.md;бои;D&D ;:https://dnd.su/articles/newbie/468-using-ability-scores/;2026-10-29;official
+S005;corpus/monsters.md;бестиарий;D&D ;https://dnd.su/bestiary/;2026-10-29;official
+S006;corpus/spells.md;заклинания;D&D ;https://dnd.su/spells/;2026-10-29;official
+S007;corpus/backgrounds.md;предыстории;D&D ;https://dnd.su/backgrounds/;2026-10-29;official
+S008;corpus/inventory.md;инвентарь;D&D ;https://dnd.su/articles/inventory/;2026-10-29;official
+S009;corpus/equipment.md;состояния;D&D ;https://dnd.su/articles/mechanics/;2026-10-29;official
